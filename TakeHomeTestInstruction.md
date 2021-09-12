@@ -45,7 +45,7 @@ The use of localStorage meant that the state will always be perserved.
 ### How to install?
 1. Execute yarn install in the command line at the folder (rock-paper-scirssors-spock-game)
 2. Exeucte yarn build
-3. Execute serve -s build
+3. serve -s build
 4. At the end of step 3, there will be a local host link, open that link in the browser
 
 Now you have the game open! Just try it out!
@@ -56,14 +56,3 @@ Now you have the game open! Just try it out!
 3. Reload the page
 
 Now you should see the welcome screen!
-
-### How to run the test?
-1. Execute yarn test --coverage
-
-Be aware that for some tests, it fails at times. Re-do the test if that happens.
-
-
-# Final
-Thanks for the opportunity! My email is jacksonhong_@outlook.com
-
-Look forward to hearing from you!
