@@ -43,7 +43,7 @@ The use of localStorage meant that the state will always be perserved.
 ## Help
 
 ### How to install?
-1. Execute yarn install in the command line at the folder (rock-paper-scirssors-spock-game)
+1. Execute yarn install
 2. Exeucte yarn build
 3. Execute serve -s build
 4. At the end of step 3, there will be a local host link, open that link in the browser
